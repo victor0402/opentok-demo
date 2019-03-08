@@ -1,6 +1,6 @@
 This is a react-native demo project to explore the functionalities of [Tokbox](https://tokbox.com) with [opentok-react-native](https://github.com/opentok/opentok-react-native/) library.
 
-###Setup
+### Setup
 Before running this project, open App.js and set your API key, Session Id and Token.
 
 
